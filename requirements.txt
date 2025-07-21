@@ -1,0 +1,4 @@
+streamlit
+groq
+language-tool-python
+python-docx
